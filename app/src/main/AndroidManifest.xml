@@ -2,6 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.hellodamar.Damar">
 
+// Damar Pratama Ristadias Hariyanto //
+// NIM 41522010009 //
     <application
         android:name="com.hellodamar.Damar.util.MyApp"
         android:allowBackup="true"
